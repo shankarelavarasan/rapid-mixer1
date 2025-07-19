@@ -1,0 +1,1 @@
+console.log('Rapid Mixer frontend loaded');
